@@ -1,4 +1,5 @@
 ## Instructivo Proyecto Análisis de Sistemas de Control:  Tower Copter 
 
 Video la prueba de deslizamiento: [Ver video](https://uniandes-my.sharepoint.com/:v:/r/personal/bt_torresg1_uniandes_edu_co/Documents/Asistencia/Control%20-%20Tower%20Copter/Delizamiento%20.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o9OI8Z)
+<br>
 Prueba de funcionamiento del sensor y ESC: [Ver video](https://uniandes-my.sharepoint.com/:v:/r/personal/bt_torresg1_uniandes_edu_co/Documents/Asistencia/Control%20-%20Tower%20Copter/Funcionamiento.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2KbTX6)
